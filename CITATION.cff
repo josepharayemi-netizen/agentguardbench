@@ -2,13 +2,15 @@ cff-version: 1.2.0
 message: "If you use AgentGuardBench, please cite this software and its accompanying technical report."
 title: "AgentGuardBench: A Multilingual Benchmark for Privacy, Security and Responsible Behaviour in AI Agents"
 type: software
-version: 0.1.0
+version: 0.1.1
 date-released: 2026-10-03
+doi: "10.5281/zenodo.23127436"
 authors:
   - family-names: Arayemi
     given-names: Joseph
     orcid: "https://orcid.org/0009-0007-0776-7238"
 repository-code: "https://github.com/josepharayemi-netizen/agentguardbench"
+url: "https://doi.org/10.5281/zenodo.23127436"
 license: MIT
 keywords:
   - responsible AI

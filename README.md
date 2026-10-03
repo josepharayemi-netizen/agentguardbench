@@ -3,6 +3,7 @@
 **A reproducible, multilingual benchmark for privacy, security, and responsible behaviour in tool-using AI agents.**
 
 [![Tests](https://img.shields.io/badge/tests-passing-brightgreen)](#testing)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23127435.svg)](https://doi.org/10.5281/zenodo.23127435)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![Responsible AI](https://img.shields.io/badge/Responsible%20AI-Benchmark-blue)](#responsible-use)
 
@@ -84,7 +85,16 @@ tool use, and human-approval controls.
 
 ## Citation
 
-Citation metadata is provided in [`CITATION.cff`](CITATION.cff). A DOI will be added after the first archived release.
+AgentGuardBench is permanently archived on Zenodo. Cite the exact archived
+release with the version DOI:
+
+> Arayemi, J. (2026). *AgentGuardBench: A Multilingual Benchmark for Privacy,
+> Security and Responsible Behaviour in AI Agents* (Version v0.1.1)
+> [Computer software]. Zenodo. https://doi.org/10.5281/zenodo.23127436
+
+- Version DOI: [10.5281/zenodo.23127436](https://doi.org/10.5281/zenodo.23127436)
+- All-versions DOI: [10.5281/zenodo.23127435](https://doi.org/10.5281/zenodo.23127435)
+- Machine-readable citation metadata: [`CITATION.cff`](CITATION.cff)
 
 ## Author
 

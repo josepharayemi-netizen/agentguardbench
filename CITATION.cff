@@ -1,0 +1,39 @@
+cff-version: 1.2.0
+message: "If you use AgentGuardBench, please cite this software and its accompanying technical report."
+title: "AgentGuardBench: A Multilingual Benchmark for Privacy, Security and Responsible Behaviour in AI Agents"
+type: software
+version: 0.1.0
+date-released: 2026-10-03
+authors:
+  - family-names: Arayemi
+    given-names: Joseph
+    orcid: "https://orcid.org/0009-0007-0776-7238"
+repository-code: "https://github.com/josepharayemi-netizen/agentguardbench"
+license: MIT
+keywords:
+  - responsible AI
+  - AI agent security
+  - privacy
+  - prompt injection
+  - benchmark
+references:
+  - type: article
+    authors:
+      - family-names: Arayemi
+        given-names: Joseph
+        orcid: "https://orcid.org/0009-0007-0776-7238"
+    title: "Secure and Responsible Retrieval-Augmented Generation for Resource-Constrained Organizations: A Multi-Cloud Reference Architecture and Experimental Evaluation"
+    year: 2026
+    publisher:
+      name: Zenodo
+    doi: "10.5281/zenodo.23048249"
+  - type: software
+    authors:
+      - family-names: Arayemi
+        given-names: Joseph
+        orcid: "https://orcid.org/0009-0007-0776-7238"
+    title: "Secure and Responsible Retrieval-Augmented Generation for Resource-Constrained Organizations: Software Artifact"
+    year: 2026
+    publisher:
+      name: Zenodo
+    doi: "10.5281/zenodo.23045245"

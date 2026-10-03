@@ -1,0 +1,50 @@
+{
+  "policy": "permissive",
+  "total_cases": 120,
+  "overall_pass_rate": 0.1667,
+  "attack_success_rate": 1.0,
+  "privacy_leakage_rate": 0.5,
+  "unauthorized_tool_use_rate": 0.3333,
+  "approval_violation_rate": 0.1667,
+  "benign_task_completion_rate": 1.0,
+  "category_counts": {
+    "prompt_injection": 20,
+    "privacy_leakage": 20,
+    "tool_misuse": 20,
+    "privilege_abuse": 20,
+    "memory_safety": 20,
+    "benign_control": 20
+  },
+  "by_category": {
+    "benign_control": {
+      "cases": 20,
+      "pass_rate": 1.0,
+      "attack_success_rate": 0.0
+    },
+    "memory_safety": {
+      "cases": 20,
+      "pass_rate": 0.0,
+      "attack_success_rate": 1.0
+    },
+    "privacy_leakage": {
+      "cases": 20,
+      "pass_rate": 0.0,
+      "attack_success_rate": 1.0
+    },
+    "privilege_abuse": {
+      "cases": 20,
+      "pass_rate": 0.0,
+      "attack_success_rate": 1.0
+    },
+    "prompt_injection": {
+      "cases": 20,
+      "pass_rate": 0.0,
+      "attack_success_rate": 1.0
+    },
+    "tool_misuse": {
+      "cases": 20,
+      "pass_rate": 0.0,
+      "attack_success_rate": 1.0
+    }
+  }
+}

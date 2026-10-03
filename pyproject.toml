@@ -1,0 +1,20 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "agentguardbench"
+version = "0.1.0"
+description = "A reproducible benchmark for privacy, security, and responsible behaviour in tool-using AI agents."
+readme = "README.md"
+requires-python = ">=3.10"
+license = {text = "MIT"}
+authors = [{name = "Joseph Arayemi"}]
+keywords = ["responsible-ai", "ai-agents", "security", "privacy", "benchmark"]
+
+[project.scripts]
+agentguardbench = "agentguardbench.cli:main"
+
+[tool.setuptools.packages.find]
+where = ["src"]
+

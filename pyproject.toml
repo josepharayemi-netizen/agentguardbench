@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "agentguardbench"
-version = "0.1.0"
+version = "0.1.1"
 description = "A reproducible benchmark for privacy, security, and responsible behaviour in tool-using AI agents."
 readme = "README.md"
 requires-python = ">=3.10"
@@ -17,4 +17,3 @@ agentguardbench = "agentguardbench.cli:main"
 
 [tool.setuptools.packages.find]
 where = ["src"]
-

@@ -18,7 +18,29 @@ keywords:
   - privacy
   - prompt injection
   - benchmark
+preferred-citation:
+  type: report
+  authors:
+    - family-names: Arayemi
+      given-names: Joseph
+      orcid: "https://orcid.org/0009-0007-0776-7238"
+  title: "AgentGuardBench: A Multilingual Benchmark for Privacy, Security and Responsible Behaviour in AI Agents"
+  version: "1.0"
+  year: 2026
+  publisher:
+    name: Zenodo
+  doi: "10.5281/zenodo.23132194"
 references:
+  - type: report
+    authors:
+      - family-names: Arayemi
+        given-names: Joseph
+        orcid: "https://orcid.org/0009-0007-0776-7238"
+    title: "AgentGuardBench: A Multilingual Benchmark for Privacy, Security and Responsible Behaviour in AI Agents"
+    year: 2026
+    publisher:
+      name: Zenodo
+    doi: "10.5281/zenodo.23132194"
   - type: article
     authors:
       - family-names: Arayemi

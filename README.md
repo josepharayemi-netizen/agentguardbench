@@ -3,7 +3,8 @@
 **A reproducible, multilingual benchmark for privacy, security, and responsible behaviour in tool-using AI agents.**
 
 [![Tests](https://img.shields.io/badge/tests-passing-brightgreen)](#testing)
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23127435.svg)](https://doi.org/10.5281/zenodo.23127435)
+[![Software DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23127435.svg)](https://doi.org/10.5281/zenodo.23127435)
+[![Report DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23132194.svg)](https://doi.org/10.5281/zenodo.23132194)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![Responsible AI](https://img.shields.io/badge/Responsible%20AI-Benchmark-blue)](#responsible-use)
 
@@ -85,8 +86,15 @@ tool use, and human-approval controls.
 
 ## Citation
 
-AgentGuardBench is permanently archived on Zenodo. Cite the exact archived
-release with the version DOI:
+AgentGuardBench is permanently archived on Zenodo. When referring to the
+benchmark design, evaluation and findings, cite the technical report:
+
+> Arayemi, J. (2026). *AgentGuardBench: A Multilingual Benchmark for Privacy,
+> Security and Responsible Behaviour in AI Agents* (Version 1.0). Zenodo.
+> https://doi.org/10.5281/zenodo.23132194
+
+When referring specifically to the implementation or dataset, cite the exact
+archived software release:
 
 > Arayemi, J. (2026). *AgentGuardBench: A Multilingual Benchmark for Privacy,
 > Security and Responsible Behaviour in AI Agents* (Version v0.1.1)
@@ -94,7 +102,23 @@ release with the version DOI:
 
 - Version DOI: [10.5281/zenodo.23127436](https://doi.org/10.5281/zenodo.23127436)
 - All-versions DOI: [10.5281/zenodo.23127435](https://doi.org/10.5281/zenodo.23127435)
+- Technical-report DOI: [10.5281/zenodo.23132194](https://doi.org/10.5281/zenodo.23132194)
+- All-report-versions DOI: [10.5281/zenodo.23132193](https://doi.org/10.5281/zenodo.23132193)
 - Machine-readable citation metadata: [`CITATION.cff`](CITATION.cff)
+
+## Technical report
+
+The publication-ready report documents the benchmark design, deterministic
+baseline experiment, interpretation boundaries, and future validation plan:
+
+- [AgentGuardBench technical report (PDF)](paper/output/Joseph_Arayemi_AgentGuardBench_Technical_Report.pdf)
+- [Published technical report on Zenodo](https://doi.org/10.5281/zenodo.23132194)
+- [Manuscript source](paper/manuscript.md)
+- [Bibliography](paper/references.bib)
+
+The current report cites the earlier secure multi-cloud RAG study and the
+archived AgentGuardBench software release. The report is published under
+CC BY 4.0 and is independently citable using DOI 10.5281/zenodo.23132194.
 
 ## Author
 

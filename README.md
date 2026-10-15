@@ -80,7 +80,7 @@ toward multilingual, reproducible evaluation of tool-using AI agents, including
 prompt injection, privacy leakage, privilege abuse, memory safety, unauthorised
 tool use, and human-approval controls.
 
-- Research article: [https://doi.org/10.5281/zenodo.23048249](https://doi.org/10.5281/zenodo.23048249)
+- Research article: [https://doi.org/10.5281/zenodo.23048250](https://doi.org/10.5281/zenodo.23048250)
 - Accompanying software: [https://doi.org/10.5281/zenodo.23045245](https://doi.org/10.5281/zenodo.23045245)
 - Machine-readable bibliography: [`REFERENCES.bib`](REFERENCES.bib)
 

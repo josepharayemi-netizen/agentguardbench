@@ -135,7 +135,7 @@ The author declares no conflict of interest.
 
 ## References
 
-1. Arayemi, J. (2026). Secure and Responsible Retrieval-Augmented Generation for Resource-Constrained Organizations: A Multi-Cloud Reference Architecture and Experimental Evaluation. Zenodo. https://doi.org/10.5281/zenodo.23048249
+1. Arayemi, J. (2026). Secure and Responsible Retrieval-Augmented Generation for Resource-Constrained Organizations: A Multi-Cloud Reference Architecture and Experimental Evaluation. Zenodo. https://doi.org/10.5281/zenodo.23048250
 2. Arayemi, J. (2026). AgentGuardBench: A Multilingual Benchmark for Privacy, Security and Responsible Behaviour in AI Agents, version 0.1.1. Zenodo. https://doi.org/10.5281/zenodo.23127436
 3. Autio, C., Schwartz, R., Dunietz, J., Jain, S., Stanley, M., Tabassi, E., Hall, P., and Roberts, K. (2024). Artificial Intelligence Risk Management Framework: Generative Artificial Intelligence Profile. NIST AI 600-1. https://doi.org/10.6028/NIST.AI.600-1
 4. Liu, X., et al. (2024). AgentBench: Evaluating LLMs as Agents. International Conference on Learning Representations. https://arxiv.org/abs/2308.03688

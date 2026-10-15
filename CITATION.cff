@@ -50,7 +50,7 @@ references:
     year: 2026
     publisher:
       name: Zenodo
-    doi: "10.5281/zenodo.23048249"
+    doi: "10.5281/zenodo.23048250"
   - type: software
     authors:
       - family-names: Arayemi
